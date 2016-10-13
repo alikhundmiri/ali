@@ -101,6 +101,22 @@
         color: #5d5fea;
         border-color: #5d5fea;
     }
+.custom_buttons_medium{
+    height: 60px;
+    width: 280px;
+    font-size: 2px;
+    margin-top: 40px;
+    background-color: transparent;
+    outline-color: white;
+    border-color: white;
+}
+    .custom_buttons_medium:hover, .custom_buttons_medium:focus {
+        /*background-color: #1583cc;*/
+        background-color: transparent;
+        color: #5d5fea;
+        border-color: #5d5fea;
+    }
+
 .lander .button_container{
     position: absolute;
     bottom:-9%;
