@@ -1,0 +1,86 @@
+.img-circle {
+    border-radius: 50%;
+    background: url("../images/DP_me.jpeg");
+    margin-top: -480px;
+    z-index: 1
+}
+.intro_text_0{
+    position: relative;
+    margin-top: 10px;
+    z-index: 2;
+    color: black;
+    text-align: end;
+    font-size: 10em;
+    letter-spacing: 1px;
+}
+
+.intro_text{
+    position: relative;
+    z-index: 2;
+    text-align: start;
+    font-size: 3em;
+    letter-spacing: 1px;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+.intro_text_2{
+    position: relative;
+    z-index: 2;
+    color: black;
+    margin-top: -50px;
+    text-align: end;
+    font-size: 3em;
+    letter-spacing: 1px;
+}
+
+.first_midsection{
+    height:170px;
+    width:100%;
+    text-align: center;
+    background: rgba(126, 12, 5, 0.79);
+}
+    a{
+        color: rgba(212, 212, 212, 0.79);
+        font-size: 1.4em;
+    }
+    a:hover{
+        color: rgba(244, 244, 244, 0.79);
+
+    }
+    p{
+        color: rgba(255, 255, 255, 0.79);
+        font-size: 1.4em;
+    }
+
+h4{
+    font-size: 1.2em;
+    color: #000000;
+}
+h4 span{
+    color: #913229;
+}
+.about_me_text{
+
+}
+
+.heading{
+    font-size: 1.8em;
+    color: #913229;
+}
+
+li{
+    font-size: 1em;
+    color: #000000;;
+}
+
+table{
+    text-align: center;
+}
+table td{
+    font-size: 1.1em;
+    color: #000000;
+}
+table th{
+    font-size: 1em;
+    color: #620502;
+}
